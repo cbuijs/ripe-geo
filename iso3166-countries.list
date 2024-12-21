@@ -1,0 +1,247 @@
+COUNTRY-CODE	COUNTRY-NAME	COUNTRY-GEO-ID	CC-TLD
+AF	Afghanistan	1149361	.af
+AX	Aland Islands	661882	.ax
+AL	Albania	783754	.al
+DZ	Algeria	2589581	.dz
+AS	American Samoa	5880801	.as
+AD	Andorra	3041565	.ad
+AO	Angola	3351879	.ao
+AI	Anguilla	3573511	.ai
+AG	Antigua and Barbuda	3576396	.ag
+AR	Argentina	3865483	.ar
+AM	Armenia	174982	.am
+AW	Aruba	3577279	.aw
+AU	Australia	2077456	.au
+AT	Austria	2782113	.at
+AZ	Azerbaijan	587116	.az
+BS	Bahamas	3572887	.bs
+BH	Bahrain	290291	.bh
+BD	Bangladesh	1210997	.bd
+BB	Barbados	3374084	.bb
+BY	Belarus	630336	.by
+BE	Belgium	2802361	.be
+BZ	Belize	3582678	.bz
+BJ	Benin	2395170	.bj
+BM	Bermuda	3573345	.bm
+BT	Bhutan	1252634	.bt
+BO	Bolivia	3923057	.bo
+BQ	Bonaire, Saint Eustatius and Saba 	7626844	.bq
+BA	Bosnia and Herzegovina	3277605	.ba
+BW	Botswana	933860	.bw
+BR	Brazil	3469034	.br
+IO	British Indian Ocean Territory	1282588	.io
+VG	British Virgin Islands	3577718	.vg
+BN	Brunei	1820814	.bn
+BG	Bulgaria	732800	.bg
+BF	Burkina Faso	2361809	.bf
+BI	Burundi	433561	.bi
+CV	Cabo Verde	3374766	.cv
+KH	Cambodia	1831722	.kh
+CM	Cameroon	2233387	.cm
+CA	Canada	6251999	.ca
+KY	Cayman Islands	3580718	.ky
+CF	Central African Republic	239880	.cf
+TD	Chad	2434508	.td
+CL	Chile	3895114	.cl
+CN	China	1814991	.cn
+CX	Christmas Island	2078138	.cx
+CC	Cocos Islands	1547376	.cc
+CO	Colombia	3686110	.co
+KM	Comoros	921929	.km
+CK	Cook Islands	1899402	.ck
+CR	Costa Rica	3624060	.cr
+HR	Croatia	3202326	.hr
+CU	Cuba	3562981	.cu
+CW	Curacao	7626836	.cw
+CY	Cyprus	146669	.cy
+CZ	Czechia	3077311	.cz
+CD	Democratic Republic of the Congo	203312	.cd
+DK	Denmark	2623032	.dk
+DJ	Djibouti	223816	.dj
+DM	Dominica	3575830	.dm
+DO	Dominican Republic	3508796	.do
+EC	Ecuador	3658394	.ec
+EG	Egypt	357994	.eg
+SV	El Salvador	3585968	.sv
+GQ	Equatorial Guinea	2309096	.gq
+ER	Eritrea	338010	.er
+EE	Estonia	453733	.ee
+SZ	Eswatini	934841	.sz
+ET	Ethiopia	337996	.et
+FK	Falkland Islands	3474414	.fk
+FO	Faroe Islands	2622320	.fo
+FJ	Fiji	2205218	.fj
+FI	Finland	660013	.fi
+FR	France	3017382	.fr
+GF	French Guiana	3381670	.gf
+PF	French Polynesia	4030656	.pf
+TF	French Southern Territories	1546748	.tf
+GA	Gabon	2400553	.ga
+GM	Gambia	2413451	.gm
+GE	Georgia	614540	.ge
+DE	Germany	2921044	.de
+GH	Ghana	2300660	.gh
+GI	Gibraltar	2411586	.gi
+GR	Greece	390903	.gr
+GL	Greenland	3425505	.gl
+GD	Grenada	3580239	.gd
+GP	Guadeloupe	3579143	.gp
+GU	Guam	4043988	.gu
+GT	Guatemala	3595528	.gt
+GG	Guernsey	3042362	.gg
+GN	Guinea	2420477	.gn
+GW	Guinea-Bissau	2372248	.gw
+GY	Guyana	3378535	.gy
+HT	Haiti	3723988	.ht
+HN	Honduras	3608932	.hn
+HK	Hong Kong	1819730	.hk
+HU	Hungary	719819	.hu
+IS	Iceland	2629691	.is
+IN	India	1269750	.in
+ID	Indonesia	1643084	.id
+IR	Iran	130758	.ir
+IQ	Iraq	99237	.iq
+IE	Ireland	2963597	.ie
+IM	Isle of Man	3042225	.im
+IL	Israel	294640	.il
+IT	Italy	3175395	.it
+CI	Ivory Coast	2287781	.ci
+JM	Jamaica	3489940	.jm
+JP	Japan	1861060	.jp
+JE	Jersey	3042142	.je
+JO	Jordan	248816	.jo
+KZ	Kazakhstan	1522867	.kz
+KE	Kenya	192950	.ke
+KI	Kiribati	4030945	.ki
+XK	Kosovo	831053	
+KW	Kuwait	285570	.kw
+KG	Kyrgyzstan	1527747	.kg
+LA	Laos	1655842	.la
+LV	Latvia	458258	.lv
+LB	Lebanon	272103	.lb
+LS	Lesotho	932692	.ls
+LR	Liberia	2275384	.lr
+LY	Libya	2215636	.ly
+LI	Liechtenstein	3042058	.li
+LT	Lithuania	597427	.lt
+LU	Luxembourg	2960313	.lu
+MO	Macao	1821275	.mo
+MG	Madagascar	1062947	.mg
+MW	Malawi	927384	.mw
+MY	Malaysia	1733045	.my
+MV	Maldives	1282028	.mv
+ML	Mali	2453866	.ml
+MT	Malta	2562770	.mt
+MH	Marshall Islands	2080185	.mh
+MQ	Martinique	3570311	.mq
+MR	Mauritania	2378080	.mr
+MU	Mauritius	934292	.mu
+YT	Mayotte	1024031	.yt
+MX	Mexico	3996063	.mx
+FM	Micronesia	2081918	.fm
+MD	Moldova	617790	.md
+MC	Monaco	2993457	.mc
+MN	Mongolia	2029969	.mn
+ME	Montenegro	3194884	.me
+MS	Montserrat	3578097	.ms
+MA	Morocco	2542007	.ma
+MZ	Mozambique	1036973	.mz
+MM	Myanmar	1327865	.mm
+NA	Namibia	3355338	.na
+NR	Nauru	2110425	.nr
+NP	Nepal	1282988	.np
+NC	New Caledonia	2139685	.nc
+NZ	New Zealand	2186224	.nz
+NI	Nicaragua	3617476	.ni
+NE	Niger	2440476	.ne
+NG	Nigeria	2328926	.ng
+NU	Niue	4036232	.nu
+NF	Norfolk Island	2155115	.nf
+KP	North Korea	1873107	.kp
+MK	North Macedonia	718075	.mk
+MP	Northern Mariana Islands	4041468	.mp
+NO	Norway	3144096	.no
+OM	Oman	286963	.om
+PK	Pakistan	1168579	.pk
+PW	Palau	1559582	.pw
+PS	Palestinian Territory	6254930	.ps
+PA	Panama	3703430	.pa
+PG	Papua New Guinea	2088628	.pg
+PY	Paraguay	3437598	.py
+PE	Peru	3932488	.pe
+PH	Philippines	1694008	.ph
+PN	Pitcairn	4030699	.pn
+PL	Poland	798544	.pl
+PT	Portugal	2264397	.pt
+PR	Puerto Rico	4566966	.pr
+QA	Qatar	289688	.qa
+CG	Republic of the Congo	2260494	.cg
+RE	Reunion	935317	.re
+RO	Romania	798549	.ro
+RU	Russia	2017370	.ru
+RW	Rwanda	49518	.rw
+BL	Saint Barthelemy	3578476	.gp
+KN	Saint Kitts and Nevis	3575174	.kn
+LC	Saint Lucia	3576468	.lc
+MF	Saint Martin	3578421	.gp
+PM	Saint Pierre and Miquelon	3424932	.pm
+SH	Saint Helena	3370751	.sh
+VC	Saint Vincent and the Grenadines	3577815	.vc
+WS	Samoa	4034894	.ws
+SM	San Marino	3168068	.sm
+ST	Sao Tome and Principe	2410758	.st
+SA	Saudi Arabia	102358	.sa
+SN	Senegal	2245662	.sn
+RS	Serbia	6290252	.rs
+SC	Seychelles	241170	.sc
+SL	Sierra Leone	2403846	.sl
+SG	Singapore	1880251	.sg
+SX	Sint Maarten	7609695	.sx
+SK	Slovakia	3057568	.sk
+SI	Slovenia	3190538	.si
+SB	Solomon Islands	2103350	.sb
+SO	Somalia	51537	.so
+GS	South Georgia and the South Sandwich Islands	3474415	.gs
+KR	South Korea	1835841	.kr
+SS	South Sudan	7909807	.ss
+ZA	South Africa	953987	.za
+ES	Spain	2510769	.es
+LK	Sri Lanka	1227603	.lk
+SD	Sudan	366755	.sd
+SR	Suriname	3382998	.sr
+SJ	Svalbard and Jan Mayen	607072	.sj
+SE	Sweden	2661886	.se
+CH	Switzerland	2658434	.ch
+SY	Syria	163843	.sy
+TW	Taiwan	1668284	.tw
+TJ	Tajikistan	1220409	.tj
+TZ	Tanzania	149590	.tz
+TH	Thailand	1605651	.th
+NL	The Netherlands	2750405	.nl
+TL	Timor Leste	1966436	.tl
+TG	Togo	2363686	.tg
+TK	Tokelau	4031074	.tk
+TO	Tonga	4032283	.to
+TT	Trinidad and Tobago	3573591	.tt
+TN	Tunisia	2464461	.tn
+TR	Turkey	298795	.tr
+TM	Turkmenistan	1218197	.tm
+TC	Turks and Caicos Islands	3576916	.tc
+TV	Tuvalu	2110297	.tv
+VI	U.S. Virgin Islands	4796775	.vi
+UG	Uganda	226074	.ug
+UA	Ukraine	690791	.ua
+AE	United Arab Emirates	290557	.ae
+GB	United Kingdom	2635167	.uk
+US	United States	6252001	.us
+UY	Uruguay	3439705	.uy
+UZ	Uzbekistan	1512440	.uz
+VU	Vanuatu	2134431	.vu
+VA	Vatican	3164670	.va
+VE	Venezuela	3625428	.ve
+VN	Vietnam	1562822	.vn
+WF	Wallis and Futuna	4034749	.wf
+EH	Western Sahara	2461445	.eh
+YE	Yemen	69543	.ye
+ZM	Zambia	895949	.zm
+ZW	Zimbabwe	878675	.zw
