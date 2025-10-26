@@ -1,0 +1,57 @@
+; BIND RPZ Zone
+$TTL 3600
+@ SOA dummy-ns hostmaster 1761445313 12h 15m 3w 3h
+;
+; ---- IPv4 ----
+;
+; ---- IPv6 ----
+32.zz.42c0.2001.rpz-client-ip CNAME .
+48.zz.3d0.43f8.2001.rpz-client-ip CNAME .
+48.zz.a50.43f8.2001.rpz-client-ip CNAME .
+47.zz.b60.43f8.2001.rpz-client-ip CNAME .
+48.zz.10d0.43f8.2001.rpz-client-ip CNAME .
+48.zz.10e0.43f8.2001.rpz-client-ip CNAME .
+48.zz.1190.43f8.2001.rpz-client-ip CNAME .
+47.zz.16a0.43f8.2001.rpz-client-ip CNAME .
+48.zz.2000.43fd.2001.rpz-client-ip CNAME .
+48.zz.3000.43fd.2001.rpz-client-ip CNAME .
+48.zz.4000.43fd.2001.rpz-client-ip CNAME .
+48.zz.9000.43fd.2001.rpz-client-ip CNAME .
+48.zz.5000.43ff.2001.rpz-client-ip CNAME .
+32.zz.1a40.2c0f.rpz-client-ip CNAME .
+32.zz.1b00.2c0f.rpz-client-ip CNAME .
+32.zz.1c40.2c0f.rpz-client-ip CNAME .
+32.zz.2240.2c0f.rpz-client-ip CNAME .
+32.zz.2540.2c0f.rpz-client-ip CNAME .
+32.zz.2640.2c0f.rpz-client-ip CNAME .
+32.zz.3700.2c0f.rpz-client-ip CNAME .
+32.zz.39c0.2c0f.rpz-client-ip CNAME .
+32.zz.43c0.2c0f.rpz-client-ip CNAME .
+32.zz.4ac0.2c0f.rpz-client-ip CNAME .
+32.zz.4cc0.2c0f.rpz-client-ip CNAME .
+32.zz.4e80.2c0f.rpz-client-ip CNAME .
+32.zz.5700.2c0f.rpz-client-ip CNAME .
+32.zz.5a40.2c0f.rpz-client-ip CNAME .
+32.zz.5a80.2c0f.rpz-client-ip CNAME .
+32.zz.6880.2c0f.rpz-client-ip CNAME .
+32.zz.7840.2c0f.rpz-client-ip CNAME .
+32.zz.e870.2c0f.rpz-client-ip CNAME .
+32.zz.e948.2c0f.rpz-client-ip CNAME .
+32.zz.ea50.2c0f.rpz-client-ip CNAME .
+32.zz.eae8.2c0f.rpz-client-ip CNAME .
+32.zz.eb58.2c0f.rpz-client-ip CNAME .
+32.zz.eb98.2c0f.rpz-client-ip CNAME .
+32.zz.ec58.2c0f.rpz-client-ip CNAME .
+32.zz.ecb8.2c0f.rpz-client-ip CNAME .
+32.zz.ecc8.2c0f.rpz-client-ip CNAME .
+32.zz.ee00.2c0f.rpz-client-ip CNAME .
+32.zz.eed0.2c0f.rpz-client-ip CNAME .
+32.zz.f138.2c0f.rpz-client-ip CNAME .
+32.zz.f5c8.2c0f.rpz-client-ip CNAME .
+32.zz.f8b0.2c0f.rpz-client-ip CNAME .
+32.zz.f8c8.2c0f.rpz-client-ip CNAME .
+32.zz.f900.2c0f.rpz-client-ip CNAME .
+32.zz.f998.2c0f.rpz-client-ip CNAME .
+32.zz.fd80.2c0f.rpz-client-ip CNAME .
+;
+; ---- EOF ----

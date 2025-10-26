@@ -1,0 +1,68 @@
+; BIND RPZ Zone
+$TTL 3600
+@ SOA dummy-ns hostmaster 1761445288 12h 15m 3w 3h
+;
+; ---- IPv4 ----
+16.0.0.62.41.rpz-client-ip CNAME .
+13.0.0.224.41.rpz-client-ip CNAME .
+24.0.207.198.91.rpz-client-ip CNAME .
+13.0.0.24.102.rpz-client-ip CNAME .
+13.0.0.104.102.rpz-client-ip CNAME .
+18.0.0.128.102.rpz-client-ip CNAME .
+22.0.204.141.102.rpz-client-ip CNAME .
+13.0.0.152.102.rpz-client-ip CNAME .
+23.0.112.164.102.rpz-client-ip CNAME .
+13.0.0.168.102.rpz-client-ip CNAME .
+22.0.204.204.102.rpz-client-ip CNAME .
+23.0.250.207.102.rpz-client-ip CNAME .
+22.0.224.208.102.rpz-client-ip CNAME .
+22.0.140.210.102.rpz-client-ip CNAME .
+22.0.208.211.102.rpz-client-ip CNAME .
+23.0.8.212.102.rpz-client-ip CNAME .
+23.0.218.215.102.rpz-client-ip CNAME .
+22.0.168.217.102.rpz-client-ip CNAME .
+24.0.210.217.102.rpz-client-ip CNAME .
+22.0.112.219.102.rpz-client-ip CNAME .
+22.0.164.219.102.rpz-client-ip CNAME .
+22.0.176.219.102.rpz-client-ip CNAME .
+24.0.118.220.102.rpz-client-ip CNAME .
+22.0.128.221.102.rpz-client-ip CNAME .
+14.0.0.240.102.rpz-client-ip CNAME .
+20.0.224.72.154.rpz-client-ip CNAME .
+13.0.0.104.154.rpz-client-ip CNAME .
+14.0.0.156.160.rpz-client-ip CNAME .
+22.0.0.160.164.rpz-client-ip CNAME .
+15.0.0.50.165.rpz-client-ip CNAME .
+22.0.68.255.169.rpz-client-ip CNAME .
+24.0.138.68.192.rpz-client-ip CNAME .
+24.0.113.39.193.rpz-client-ip CNAME .
+17.0.0.95.193.rpz-client-ip CNAME .
+24.0.15.105.193.rpz-client-ip CNAME .
+24.0.123.218.193.rpz-client-ip CNAME .
+24.0.95.41.196.rpz-client-ip CNAME .
+14.0.0.176.196.rpz-client-ip CNAME .
+14.0.0.184.196.rpz-client-ip CNAME .
+16.0.0.203.196.rpz-client-ip CNAME .
+22.0.156.216.196.rpz-client-ip CNAME .
+12.0.0.224.196.rpz-client-ip CNAME .
+11.0.0.0.197.rpz-client-ip CNAME .
+16.0.0.238.197.rpz-client-ip CNAME .
+16.0.0.240.197.rpz-client-ip CNAME .
+16.0.0.244.197.rpz-client-ip CNAME .
+19.0.160.150.213.rpz-client-ip CNAME .
+;
+; ---- IPv6 ----
+32.zz.4350.2001.rpz-client-ip CNAME .
+48.zz.320.43f8.2001.rpz-client-ip CNAME .
+32.zz.4280.2c0f.rpz-client-ip CNAME .
+32.zz.4840.2c0f.rpz-client-ip CNAME .
+32.zz.65c0.2c0f.rpz-client-ip CNAME .
+32.zz.ec90.2c0f.rpz-client-ip CNAME .
+32.zz.f290.2c0f.rpz-client-ip CNAME .
+32.zz.f3a0.2c0f.rpz-client-ip CNAME .
+32.zz.f5f8.2c0f.rpz-client-ip CNAME .
+32.zz.f698.2c0f.rpz-client-ip CNAME .
+32.zz.f7c8.2c0f.rpz-client-ip CNAME .
+28.zz.fab0.2c0f.rpz-client-ip CNAME .
+;
+; ---- EOF ----

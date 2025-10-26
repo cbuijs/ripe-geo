@@ -1,0 +1,101 @@
+; BIND RPZ Zone
+$TTL 3600
+@ SOA dummy-ns hostmaster 1761445187 12h 15m 3w 3h
+;
+; ---- IPv4 ----
+;
+; ---- IPv6 ----
+48.zz.1e.dd8.2001.rpz-client-ip CNAME .
+48.zz.1d.de8.2001.rpz-client-ip CNAME .
+48.zz.4000.deb.2001.rpz-client-ip CNAME .
+48.zz.3480.df0.2001.rpz-client-ip CNAME .
+48.zz.5080.df0.2001.rpz-client-ip CNAME .
+48.zz.5880.df0.2001.rpz-client-ip CNAME .
+48.zz.8440.df0.2001.rpz-client-ip CNAME .
+48.zz.9dc0.df0.2001.rpz-client-ip CNAME .
+48.zz.9f00.df0.2001.rpz-client-ip CNAME .
+48.zz.15c0.df1.2001.rpz-client-ip CNAME .
+48.zz.2280.df1.2001.rpz-client-ip CNAME .
+48.zz.5780.df1.2001.rpz-client-ip CNAME .
+48.zz.6040.df1.2001.rpz-client-ip CNAME .
+48.zz.c701.df1.2001.rpz-client-ip CNAME .
+48.zz.1540.df2.2001.rpz-client-ip CNAME .
+48.zz.a980.df2.2001.rpz-client-ip CNAME .
+48.zz.ef40.df2.2001.rpz-client-ip CNAME .
+48.zz.fc0.df3.2001.rpz-client-ip CNAME .
+48.zz.54c0.df3.2001.rpz-client-ip CNAME .
+48.zz.5900.df3.2001.rpz-client-ip CNAME .
+48.zz.6ac0.df3.2001.rpz-client-ip CNAME .
+48.zz.1940.df4.2001.rpz-client-ip CNAME .
+48.zz.2880.df5.2001.rpz-client-ip CNAME .
+47.zz.1440.df6.2001.rpz-client-ip CNAME .
+48.zz.1b40.df6.2001.rpz-client-ip CNAME .
+48.zz.3e80.df6.2001.rpz-client-ip CNAME .
+48.zz.8680.df6.2001.rpz-client-ip CNAME .
+48.zz.bc80.df6.2001.rpz-client-ip CNAME .
+48.zz.7f80.df7.2001.rpz-client-ip CNAME .
+48.zz.a680.df7.2001.rpz-client-ip CNAME .
+48.zz.e380.df7.2001.rpz-client-ip CNAME .
+32.zz.3da0.2400.rpz-client-ip CNAME .
+32.zz.3ee0.2400.rpz-client-ip CNAME .
+32.zz.4880.2400.rpz-client-ip CNAME .
+32.zz.4aa0.2400.rpz-client-ip CNAME .
+32.zz.6060.2400.rpz-client-ip CNAME .
+32.zz.87e0.2400.rpz-client-ip CNAME .
+32.zz.96a0.2400.rpz-client-ip CNAME .
+32.zz.b9e0.2400.rpz-client-ip CNAME .
+32.zz.d460.2400.rpz-client-ip CNAME .
+32.zz.ef20.2400.rpz-client-ip CNAME .
+32.zz.fa60.2400.rpz-client-ip CNAME .
+32.zz.ffa0.2400.rpz-client-ip CNAME .
+32.zz.be0.2401.rpz-client-ip CNAME .
+32.zz.3e00.2401.rpz-client-ip CNAME .
+32.zz.4d80.2401.rpz-client-ip CNAME .
+32.zz.5bc0.2401.rpz-client-ip CNAME .
+32.zz.7540.2401.rpz-client-ip CNAME .
+32.zz.9700.2401.rpz-client-ip CNAME .
+32.zz.a700.2401.rpz-client-ip CNAME .
+32.zz.cb00.2401.rpz-client-ip CNAME .
+32.zz.ccc0.2401.rpz-client-ip CNAME .
+32.zz.d4c0.2401.rpz-client-ip CNAME .
+32.zz.820.2402.rpz-client-ip CNAME .
+32.zz.4740.2402.rpz-client-ip CNAME .
+32.zz.5100.2402.rpz-client-ip CNAME .
+32.zz.b340.2402.rpz-client-ip CNAME .
+32.zz.c100.2402.rpz-client-ip CNAME .
+32.zz.cd40.2402.rpz-client-ip CNAME .
+32.zz.eb40.2402.rpz-client-ip CNAME .
+32.zz.2840.2403.rpz-client-ip CNAME .
+32.zz.45c0.2403.rpz-client-ip CNAME .
+32.zz.6600.2403.rpz-client-ip CNAME .
+32.zz.7140.2403.rpz-client-ip CNAME .
+32.zz.7500.2403.rpz-client-ip CNAME .
+32.zz.bbc0.2403.rpz-client-ip CNAME .
+32.zz.300.2404.rpz-client-ip CNAME .
+32.zz.2c40.2404.rpz-client-ip CNAME .
+32.zz.68c0.2404.rpz-client-ip CNAME .
+32.zz.7c40.2404.rpz-client-ip CNAME .
+32.zz.8a40.2404.rpz-client-ip CNAME .
+32.zz.9240.2404.rpz-client-ip CNAME .
+32.zz.9940.2404.rpz-client-ip CNAME .
+32.zz.b300.2404.rpz-client-ip CNAME .
+32.zz.bb80.2404.rpz-client-ip CNAME .
+32.zz.cc00.2404.rpz-client-ip CNAME .
+32.zz.e980.2404.rpz-client-ip CNAME .
+32.zz.1a00.2405.rpz-client-ip CNAME .
+32.zz.3900.2405.rpz-client-ip CNAME .
+32.zz.8380.2405.rpz-client-ip CNAME .
+32.zz.aa00.2405.rpz-client-ip CNAME .
+32.zz.da00.2405.rpz-client-ip CNAME .
+32.zz.e280.2405.rpz-client-ip CNAME .
+32.zz.f500.2405.rpz-client-ip CNAME .
+32.zz.fa00.2405.rpz-client-ip CNAME .
+32.zz.19c0.2406.rpz-client-ip CNAME .
+32.zz.2740.2406.rpz-client-ip CNAME .
+32.zz.b100.2406.rpz-client-ip CNAME .
+32.zz.46c0.2407.rpz-client-ip CNAME .
+32.zz.5e00.2407.rpz-client-ip CNAME .
+32.zz.8180.2407.rpz-client-ip CNAME .
+32.zz.c180.2407.rpz-client-ip CNAME .
+;
+; ---- EOF ----

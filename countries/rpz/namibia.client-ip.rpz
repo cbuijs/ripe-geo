@@ -1,0 +1,58 @@
+; BIND RPZ Zone
+$TTL 3600
+@ SOA dummy-ns hostmaster 1761445243 12h 15m 3w 3h
+;
+; ---- IPv4 ----
+18.0.192.63.41.rpz-client-ip CNAME .
+16.0.0.182.41.rpz-client-ip CNAME .
+22.0.84.190.41.rpz-client-ip CNAME .
+19.0.96.190.41.rpz-client-ip CNAME .
+19.0.128.205.41.rpz-client-ip CNAME .
+18.0.64.218.41.rpz-client-ip CNAME .
+18.0.64.219.41.rpz-client-ip CNAME .
+22.0.80.223.41.rpz-client-ip CNAME .
+22.0.212.69.102.rpz-client-ip CNAME .
+22.0.80.204.102.rpz-client-ip CNAME .
+22.0.180.204.102.rpz-client-ip CNAME .
+22.0.108.206.102.rpz-client-ip CNAME .
+22.0.196.209.102.rpz-client-ip CNAME .
+22.0.244.209.102.rpz-client-ip CNAME .
+22.0.184.213.102.rpz-client-ip CNAME .
+22.0.132.214.102.rpz-client-ip CNAME .
+22.0.212.214.102.rpz-client-ip CNAME .
+22.0.104.215.102.rpz-client-ip CNAME .
+16.0.0.232.105.rpz-client-ip CNAME .
+18.0.192.0.154.rpz-client-ip CNAME .
+17.0.0.242.160.rpz-client-ip CNAME .
+22.0.108.160.164.rpz-client-ip CNAME .
+22.0.28.1.196.rpz-client-ip CNAME .
+24.0.94.3.196.rpz-client-ip CNAME .
+24.0.10.12.196.rpz-client-ip CNAME .
+19.0.0.20.196.rpz-client-ip CNAME .
+19.0.128.44.196.rpz-client-ip CNAME .
+24.0.28.46.196.rpz-client-ip CNAME .
+24.0.2.49.196.rpz-client-ip CNAME .
+19.0.32.216.196.rpz-client-ip CNAME .
+22.0.164.216.196.rpz-client-ip CNAME .
+24.0.207.216.196.rpz-client-ip CNAME .
+24.0.18.223.196.rpz-client-ip CNAME .
+24.0.35.223.196.rpz-client-ip CNAME .
+16.0.0.188.197.rpz-client-ip CNAME .
+16.0.0.233.197.rpz-client-ip CNAME .
+18.0.64.234.197.rpz-client-ip CNAME .
+17.0.128.243.197.rpz-client-ip CNAME .
+23.0.14.152.204.rpz-client-ip CNAME .
+;
+; ---- IPv6 ----
+48.zz.80.43f8.2001.rpz-client-ip CNAME .
+48.zz.3b0.43f8.2001.rpz-client-ip CNAME .
+47.zz.980.43f8.2001.rpz-client-ip CNAME .
+32.zz.dc0.2c0f.rpz-client-ip CNAME .
+32.zz.2d40.2c0f.rpz-client-ip CNAME .
+32.zz.6b40.2c0f.rpz-client-ip CNAME .
+32.zz.76c0.2c0f.rpz-client-ip CNAME .
+32.zz.ef08.2c0f.rpz-client-ip CNAME .
+32.zz.f778.2c0f.rpz-client-ip CNAME .
+32.zz.f980.2c0f.rpz-client-ip CNAME .
+;
+; ---- EOF ----
