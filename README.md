@@ -1,9 +1,7 @@
 Compiled/Aggregated GEO-IP (CIDR) lists using RIPE/GEONAMES/IPDENY
 
 
-
 *NOTE*: Updates every day around 11:00 (11am) CET.
-
 
 
 Filename Glossery:
@@ -18,7 +16,6 @@ Filename Glossery:
 `*.ipv4.*` = IPv4 Only version of list/zonefile
 
 `*.ipv6.*` = IPv6 Only version of list/zonefile
-
 
 
 Sources used:
